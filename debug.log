@@ -1,0 +1,3 @@
+[0216/110523.784:ERROR:registration_protocol_win.cc(56)] CreateFile: Не удается найти указанный файл. (0x2)
+[0216/131621.934:ERROR:registration_protocol_win.cc(56)] CreateFile: Не удается найти указанный файл. (0x2)
+[0216/132432.657:ERROR:registration_protocol_win.cc(56)] CreateFile: Не удается найти указанный файл. (0x2)
